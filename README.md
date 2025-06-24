@@ -28,7 +28,7 @@ This tool automatically locates all Unity installations on your system and patch
 ## Usage
 
 1. Close Unity and Unity Hub completely
-2. Run the script:
+2. Run the script in ADMIN MODE:
    ```bash
    python unity_blender_fix.py
    ```
